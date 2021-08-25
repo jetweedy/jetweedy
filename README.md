@@ -1,4 +1,4 @@
-### Hi, I'm Jon.
+### Hi, I'm Jon. I'm a programmer, a linguist, a casual runner, and a dog-lover.
 
 - **I’m currently working on** [The Beckett Foundation](https://beckettfoundation.org) and a remote-playable "Coronovirus Card Game" similar to Mafia and One Night Ultimate Werewolf.
 - **I’m currently learning:** Portuguese, FHIR and AWS
