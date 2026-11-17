@@ -1,4 +1,4 @@
-### Hi, I'm Jon. I'm a programmer, a linguist, a casual runner, and a dog-lover.
+### Hi, I'm Jon. I'm a programmer, a linguist, a bike tourist, and a dog-lover.
 
 - **I’m currently working on** [The Beckett Foundation](https://beckettfoundation.org) and lots of web scraping.
 - **I’m currently learning:** Spanish, FHIR and Power BI
